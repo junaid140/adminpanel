@@ -11,7 +11,7 @@
 ## Authors Information
 My name is Junaid Saeed, I am a Computer Engineer with skilled in flutter, NodeJs ,ExpressJS, MongoDB, MySQL , DevOPS, for more information please check the links bellow.
 
-- [LinkedIn: Junaidsaeed](www.linkedin.com/in/junaid-saeed-7479951a4/)
+- [LinkedIn: Junaidsaeed](https://www.linkedin.com/in/junaid-saeed-7479951a4/)
 - Skype: Junaid Saeed
 
 For help getting started with Flutter, view our
