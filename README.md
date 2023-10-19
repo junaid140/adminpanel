@@ -3,9 +3,9 @@
 ## On Desktop
 <img src="assets/img.png" width=300 height=460>
 ## On Tablet
-<img src="assets/img1.png" width=300 height=460>
+<img src="assets/img_1.png" width=300 height=460>
 ## On Mobile Devices
-<img src="assets/img2.png" width=300 height=460>
+<img src="assets/img_2.png" width=300 height=460>
 
 ### Don't forget to insert your APIKEY for the project to work
 
