@@ -7,8 +7,6 @@
 ## On Mobile Devices
 <img src="assets/img_2.png" width=300 height=460>
 
-### Don't forget to insert your APIKEY for the project to work
-
 
 ## Authors Information
 My name is Junaid Saeed, I am a Computer Engineer with skilled in flutter, NodeJs ,ExpressJS, MongoDB, MySQL , DevOPS, for more information please check the links bellow.
