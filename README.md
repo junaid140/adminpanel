@@ -1,7 +1,7 @@
 # A Responsive Admin Panel with flutter with routing
 
 ## On Desktop
-<img src="assets/img.png" width=300 height=460>
+<img src="assets/img.png" width=1920 height=1080>
 ## On Tablet
 <img src="assets/img_1.png" width=300 height=460>
 ## On Mobile Devices
